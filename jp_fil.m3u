@@ -18,15 +18,14 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakut
 #EXTINF:-1 tvg-dt="98" tvg-id="rch_98" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png" group-title="RAKUTEN",セクシーエンタメチャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://baseec-img-mng.akamaized.net/images/user/logo/dde8cbaba8f25c311920bd2e0e13afd6.png",Pigoo
-http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/pigoo.png",Pigoo
+http://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="rch_59" tvg-name="Neco Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/261.png",Neco Channel
-http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_59" tvg-name="Neco Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/neco_channel.png",Neco Channel
+http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://pbs.twimg.com/profile_images/1363766318298587139/TYkQgTdr_400x400.jpg",Toei Channel
-http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 
-#EXTINF:-1 tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/PRPIC-20230705124343.%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB%E5%B0%82%E9%96%80%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%AD%E3%82%B4.jpg",Nihon Eiga Senmon
-http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
-
+#EXTINF:-1 tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
+http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
